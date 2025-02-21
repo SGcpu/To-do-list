@@ -2,7 +2,7 @@
 
 A sleek, responsive to-do list application built with vanilla JavaScript, HTML5, and CSS3. This application allows users to add, display, and remove tasks with a beautiful interface that works across all devices.
 
-![TO-DO App Screenshot](To-do ss.png)
+![TO-DO App Screenshot](images/To-do_ss.png)
 
 ## ✨ Features
 
